@@ -1,5 +1,5 @@
 h1 {
-  backround-color; wheat;
+  backround-color: wheat;
 }
 table {
   font-family: arial, sans-serif;
@@ -15,4 +15,8 @@ td, th {
 
 tr:nth-child(even) {
   background-color: #dddddd;
+}
+
+body {
+  backround-color: black;
 }
